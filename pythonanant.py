@@ -13,8 +13,5 @@ if __name__ == "__main__":
     b = input("Enter second number: ")
     c = multiplyTwoNumbers(a, b)
     print(c)
-
-    a = input("Enter first number: ")
-    b = input("Enter second number: ")
     c = addTwoNumbers(a, b)
     print(c)
